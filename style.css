@@ -5,3 +5,8 @@ body{
     list-style: none;
     max-width: 300px;
 }
+
+.revert{
+    box-sizing: border-box;
+    display: inline;
+}
