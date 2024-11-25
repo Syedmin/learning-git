@@ -1,4 +1,7 @@
 body{
     background-color: white;
     padding: 22px;
+    margin: 10px;
+    list-style: none;
+    max-width: 300px;
 }
